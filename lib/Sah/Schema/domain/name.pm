@@ -21,3 +21,6 @@ _
     match => '\A[0-9a-z]([0-9a-z-]*[0-9a-z])?(\.[0-9a-z]([0-9a-z-]*[0-9a-z]?))+\z',
     'x.perl.coerce_rules'=>['str_tolower'],
 }, {}];
+
+1;
+# ABSTRACT:
